@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Khilona",
+    "slug": "Khilona",
+    "icon": "./asset/icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "60af75a5-f186-4ac8-93fe-3cecdaf910ff"
+      }
+    },
+    "android": {
+      "package": "com.usamathakur.Khilona",
+      "versionCode": 2 
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3603149055596095~7814372533"
+  }
+}
